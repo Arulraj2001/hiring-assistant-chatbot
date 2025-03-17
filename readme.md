@@ -39,7 +39,6 @@ The AI-Powered Hiring Assistant Chatbot is designed to streamline the hiring pro
 ### Libraries Used
 - Streamlit: Web-based UI framework
 - Together AI API: AI model for resume analysis and interview question generation
-- OpenAI API: Alternative language model support
 
 ### Architecture
 - **Frontend:** Built using Streamlit
@@ -63,8 +62,7 @@ The AI-Powered Hiring Assistant Chatbot is designed to streamline the hiring pro
 - Designed modular functions for scalability and maintainability.
 
 ## Demo
-[Live Demo Link (if available)]
-Alternatively, a short video walkthrough demonstrating the chatbot’s features.
+[Live Demo Link (https://www.loom.com/share/a0026e761aba469892f12bfaada0dde2?sid=743b2268-0262-44c9-b4c1-285090442902)]
 
 ## Submission Guidelines
 - Deadline: 48 Hours
